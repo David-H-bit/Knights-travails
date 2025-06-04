@@ -80,7 +80,7 @@ printPath(path); // 0 moves
 ## Running the Code
 
 ```bash
-node knight.js
+node index.js
 ```
 
 The included example finds the path from `[2, 0]` to `[7, 6]` and displays the result.
